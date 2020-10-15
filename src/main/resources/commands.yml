@@ -1,0 +1,6 @@
+commands:
+  test:
+    permission: 'test.permission'
+    commands:
+      - 'plugins'
+      - 'MSG: &cyoo %player% u noob'

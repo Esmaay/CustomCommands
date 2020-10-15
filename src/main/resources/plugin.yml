@@ -1,0 +1,7 @@
+name: CustomCommands
+version: 1.0
+main: me.esmay.customcommands.CustomCommands
+authors: [Esmaybe]
+commands:
+  customcommands:
+    aliases: [cc]
